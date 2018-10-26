@@ -6,7 +6,6 @@ Map for TransLink bus Tracker
 
 This React application display current location of TransLink bus on map. 
 
-***DEMO:***
 
 ![Demo](https://github.com/wtrst/mapbox_challenge/blob/master/screenshot.png)
 
